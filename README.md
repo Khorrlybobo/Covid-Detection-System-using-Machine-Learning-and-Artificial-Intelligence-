@@ -1,6 +1,6 @@
 # Covid-Detection-System-using-Machine-Learning-and-Artificial-Intelligence-
 
-                           **How the Code Works**
+  ## How the Code Works
 
 1. **Importing Libraries and Modules:**
    The code starts by importing necessary libraries and modules for audio processing, data manipulation, visualization, and machine learning.
